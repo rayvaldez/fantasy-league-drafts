@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  team: MyString
+  position: MyString
+  price: 9.99
+  minutes_played: 1
+  points: 1
+  goals: 1
+  assists: 1
+  goals_conceded: 1
+
+two:
+  first_name: MyString
+  last_name: MyString
+  team: MyString
+  position: MyString
+  price: 9.99
+  minutes_played: 1
+  points: 1
+  goals: 1
+  assists: 1
+  goals_conceded: 1
